@@ -8,7 +8,7 @@ from src.texts.textAboutVUZ import textAboutVUZ
 replyButton = {
     "aboutBot": "ℹ️ О боте",
     "aboutVUZ": "📍 О ВУЗе",
-    "specialties": "🎓 Направления для абитериентов",
+    "specialties": "🎓 Направления для абитуриентов",
     "openDays": "📅 Дни открытых дверей",
     "Contact": "📞 Контакты",
     "FAQ": "❓ FAQ"
